@@ -20,7 +20,7 @@ metadata:
 spec:
   clusterName: belgium-2
   git:
-    syncRepo: git@github.com:<GITHUB-USERNAME>/anthos-config-management-samples.git
+    syncRepo: git@github.com:infinity-blackhole/anthos-config-management-samples.git
     syncBranch: 1.0.0
     secretType: ssh
     policyDir: "locality-specific-policy/config-root"
